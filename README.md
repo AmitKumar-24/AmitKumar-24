@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @AmitKumar-24
-- 👀 I’m interested in Data Science.
+- 👀 I’m interested in Web Development and Data Science.
