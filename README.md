@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=MCA+Graduate+%7C+Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+TypeScript;Let's+Build+Something+Awesome+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/86002775?s=400&u=ebd4097bd1d20bb50a9f0a8ca14eb8dd17fb5831&v=4" alt="Amit Kumar" width="150" style="border-radius: 50%">
-</p>
-
 ---
 
 ### 👨‍💻 About Me
