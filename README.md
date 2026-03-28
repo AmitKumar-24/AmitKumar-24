@@ -98,11 +98,11 @@ See: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-verce
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmitKumar-24&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/AmitKumar-24/AmitKumar-24/main/stats/github-stats.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumar-24&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/AmitKumar-24/AmitKumar-24/main/stats/top-languages.svg" />
 </p>
 
 ---
