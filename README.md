@@ -127,7 +127,7 @@ See: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-verce
 
 <p align="center">
   
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=AmitKumar-24&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10" />
+  <img src="https://github-trophies.vercel.app/?username=AmitKumar-24&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10" />
 </p>
 
 ---
