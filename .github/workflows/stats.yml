@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate-stats:
@@ -14,9 +11,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Create output directory
-        run: mkdir -p stats
 
       - name: Generate GitHub Stats Card
         uses: lowlighter/metrics@latest
@@ -28,6 +22,18 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: Asia/Kolkata
 
+  generate-languages:
+    runs-on: ubuntu-latest
+    needs: generate-stats
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Pull latest changes
+        run: git pull origin main
+
       - name: Generate Top Languages Card
         uses: lowlighter/metrics@latest
         with:
@@ -37,17 +43,7 @@ jobs:
           template: classic
           base: ""
           plugin_languages: yes
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           config_timezone: Asia/Kolkata
-
-      - name: Commit and Push
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add stats/
-          git diff --staged --quiet || git commit -m "Update GitHub stats"
-          git push
