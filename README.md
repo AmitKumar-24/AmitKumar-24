@@ -1,28 +1,12 @@
-<!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=220&section=header&text=Amit%20Kumar&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20Automation%20Engineer&descSize=20&descColor=c4b5fd&descAlignY=55&animation=fadeIn" />
+<h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 
-<!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/AmitKumar-24">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%A4%96+Building+AI+Agents+%26+Automation+Workflows;%F0%9F%94%97+n8n+%7C+Gen+AI+%7C+Agentic+AI+%7C+LLMs;%F0%9F%9A%80+MERN+Stack+%7C+Next.js+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%A4%96+AI+%26+Automation+Engineer+%7C+Software+Developer;%F0%9F%94%97+n8n+%7C+Gen+AI+%7C+Agentic+AI+%7C+LLMs;%F0%9F%9A%80+MERN+Stack+%7C+Next.js+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
 </p>
 
-<!-- Badges Row -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/amit-kumar-04aa56183/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:amit000k143@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/AmitKumar-24">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=AmitKumar-24&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" />
-</p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
----
+<br/>
 
 ### 👨‍💻 About Me
 
@@ -36,6 +20,8 @@
 - 🤝 Employed but always **open to collaborations** on AI & open-source projects
 - 📫 Reach me at: **amit000k143@gmail.com**
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/amit-kumar-04aa56183/)
+
+<br clear="both"/>
 
 ---
 
@@ -55,7 +41,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack (Modern Icons)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,mysql,tailwind,html,css,git,github,docker,vscode,figma,firebase&perline=9" />
@@ -66,48 +52,57 @@
 ### 🚀 Languages & Tools (Detailed View)
 
 - 🧠 **Languages**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 - 🧱 **Frontend**  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
+  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 - ⚙️ **Backend**  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat-square&logo=express&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white)
 
 - 🛢️ **Database**  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
 - 🤖 **AI & Automation**  
-  ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-  ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-  ![AI Agents](https://img.shields.io/badge/-AI%20Agents-7C3AED?style=flat-square&logoColor=white)
+  ![n8n](https://img.shields.io/badge/-n8n-EA4B71?logo=n8n&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
+  ![AI Agents](https://img.shields.io/badge/-AI%20Agents-7C3AED?logoColor=white)
 
 - 🛠️ **Tools & IDEs**  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
 
+<!-- 
+⚠️ NOTE: The public github-readme-stats.vercel.app is often rate-limited and images may not load.
+If stats don't show, you can deploy your own free Vercel instance:
+1. Fork https://github.com/anuraghazra/github-readme-stats
+2. Deploy on Vercel with a GitHub PAT token
+3. Replace "github-readme-stats.vercel.app" below with your Vercel URL
+See: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+-->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmitKumar-24&show_icons=true&theme=tokyonight&border_color=6366f1&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmitKumar-24&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumar-24&layout=compact&theme=tokyonight&border_color=6366f1&border_radius=10&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumar-24&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -115,7 +110,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AmitKumar-24&theme=tokyonight&border=6366f1&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=AmitKumar-24&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -123,7 +118,7 @@
 ### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmitKumar-24&theme=tokyo-night&bg_color=1a1b27&color=a855f7&line=6366f1&point=a855f7&area=true&area_color=6366f1&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmitKumar-24&theme=rogue&bg_color=141321&color=a855f7&line=6366f1&point=a855f7&area=true&area_color=6366f1&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -131,14 +126,19 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmitKumar-24&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AmitKumar-24&theme=algolia&no-bg=true&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
 ### 🐍 Snake Eating My Contributions
 
-<!-- ⚠️ To make the snake work, you need to set up a GitHub Action. See instructions below. -->
+<!-- 
+⚠️ SETUP REQUIRED: The snake needs a GitHub Action to generate the SVG.
+See the snake.yml file for setup instructions.
+Once set up, the snake auto-updates every 12 hours.
+-->
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmitKumar-24/AmitKumar-24/output/github-contribution-grid-snake-dark.svg" />
@@ -147,24 +147,9 @@
   </picture>
 </p>
 
-<!--
-🐍 SNAKE SETUP INSTRUCTIONS:
-1. Go to your AmitKumar-24/AmitKumar-24 repository
-2. Click Actions tab → "set up a workflow yourself"
-3. Name it: snake.yml
-4. Paste the content from the snake.yml file provided
-5. Go to Settings → Actions → General → set "Read and write permissions"
-6. Go back to Actions → click "Generate Snake" → "Run workflow"
-7. Wait for green checkmark ✅ — the snake will appear!
--->
-
 ---
 
 ### 📬 Connect With Me
-
-<p align="center">
-  <i>💬 I'm always open to interesting conversations, collaborations on AI/automation projects, and building cool stuff together!</i>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amit-kumar-04aa56183/">
@@ -178,9 +163,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmitKumar-24&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" />
+</p>
+
 ---
 
 <p align="center">✨ Thank you for visiting my profile! Let's build the future with AI 🚀 ✨</p>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0d1117&height=120&section=footer" />
